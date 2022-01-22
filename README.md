@@ -1,4 +1,3 @@
-# Class5-Data_Manipulation-Module-Week18
 # DATA MANIPULATION WEEK-18 ASSIGNMENT
 
 ### 1. Numpy’da Vektor ve Matrisin farkini tek cumle ile ifade ediniz.
